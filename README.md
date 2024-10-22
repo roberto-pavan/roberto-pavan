@@ -1,6 +1,8 @@
-## Hi there 👋
+## Olá! Bem-vindo ao meu GitHub 👋
 
-- Aprendendo Power BI
+Atualmente, estou aprendendo a usar o Power BI e explorando suas funcionalidades para criar visualizações de dados mais eficientes. Este espaço será dedicado a compartilhar meu progresso e projetos relacionados a essa ferramenta.
+
+Sinta-se à vontade para acompanhar meu aprendizado!
 <!--
 **roberto-pavan/roberto-pavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
